@@ -1,9 +1,6 @@
-# requirements.txt
-streamlit
 pandas
-numpy
+streamlit
 matplotlib
 seaborn
 plotly
-requests
-pydeck
+koreanize-matplotlib
